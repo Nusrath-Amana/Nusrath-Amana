@@ -1,4 +1,5 @@
-# Nusrath Amana 👋
+<h1 align="center">Hi 👋, I'm Nusrath Amana</h1>
+<h3 align="center">Undergraduate Student | Electronic and Telecommunication Engineering | University of Moratuwa, Sri Lanka (ENTC, UOM)</h3>
 
 🎓 **Undergraduate Student** | Electronic and Telecommunication Engineering (ENTC, UOM)  
 💻 **Passionate about**:  
