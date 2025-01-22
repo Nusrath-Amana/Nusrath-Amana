@@ -33,6 +33,9 @@
 
 
 ---
+### 🗣️ Languages Used:  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nusrath-Amana)](https://github.com/Nusrath-Amana)
+
 
 🌟 **Experience**:  
 During my internship at **MAS Innovation**, I worked on cutting-edge projects with the AI team, honing my skills in developing and deploying machine learning solutions.  
