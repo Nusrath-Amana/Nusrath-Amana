@@ -3,10 +3,10 @@
 🎓 **Undergraduate Student** | Electronic and Telecommunication Engineering (ENTC, UOM)  
 
 💻 **Passionate about**:  
-- **Pattern Recognition**  
-- **Computer Vision**  
-- **Deep Learning**  
 - **Machine Learning**  
+- **Computer Vision and Pattern Recognition**
+- - **Signal Processing**  
+- **Software Engineering**  
 
 🔧 **Skills**:  
 - **Programming**: Python, C++  
