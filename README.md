@@ -1,5 +1,5 @@
 ## ✨ **Watch My Typing Animation**
-You can view my typing animation [here]([https://nusrath-amana.github.io/typing-animation/](https://github.com/Nusrath-Amana/Nusrath-Amana/blob/main/typing.html)).
+You can view my typing animation [here](https://nusrath-amana.github.io/typing-animation/).
 
 
 💻 **Passionate about**:  
