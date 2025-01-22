@@ -1,0 +1,58 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Typing Animation</title>
+    <style>
+        body {
+            font-family: 'Courier New', monospace;
+            background-color: #f7f7f7;
+            color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .container {
+            text-align: center;
+        }
+
+        .typing {
+            display: inline-block;
+            font-size: 2em;
+            white-space: nowrap;
+            border-right: 3px solid #000;
+            padding-right: 5px;
+            animation: typing 4s steps(40) 1s 1 normal both, blinkCaret 0.75s step-end infinite;
+        }
+
+        @keyframes typing {
+            0% {
+                width: 0;
+            }
+            100% {
+                width: 100%;
+            }
+        }
+
+        @keyframes blinkCaret {
+            50% {
+                border-color: transparent;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>
+            <span class="typing">Hi 👋, I'm Nusrath Amana. 🎓 Electronic and Telecommunication Engineering Undergraduate from University of Moratuwa. 💻 Passionate about Machine Learning, Computer Vision, Signal Processing, and Software Engineering.</span>
+        </h1>
+    </div>
+
+</body>
+</html>
