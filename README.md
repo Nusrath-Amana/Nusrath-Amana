@@ -22,6 +22,9 @@
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
 </p>
 
 ### 🛠️ Concepts:  
@@ -31,11 +34,7 @@
   <img src="https://img.shields.io/badge/OOP-FFC107?style=for-the-badge" alt="Object-Oriented Programming" />
 </p>
 
-
 ---
-### 🗣️ Languages Used:  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nusrath-Amana)](https://github.com/Nusrath-Amana)
-
 
 🌟 **Experience**:  
 During my internship at **MAS Innovation**, I worked on cutting-edge projects with the AI team, honing my skills in developing and deploying machine learning solutions.  
@@ -50,3 +49,8 @@ I'm dedicated to applying both theoretical and practical knowledge to solve real
 📫 **Let’s connect**:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nusrath%20Amana-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nusrath-amana/)  
 [![Email](https://img.shields.io/badge/Email-nusrathamana526@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nusrathamana526@gmail.com)  
+
+---
+
+### ⭐ GitHub Stats:  
+[![GitHub stars](https://img.shields.io/github/stars/Nusrath-Amana?style=social)](https://github.com/Nusrath-Amana)  
