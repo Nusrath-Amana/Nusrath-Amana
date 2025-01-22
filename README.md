@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋  
 
-<!--
-**Nusrath-Amana/Nusrath-Amana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Undergraduate Student** | Electronic and Telecommunication Engineering (ENTC, UOM)  
 
-Here are some ideas to get you started:
+💻 **Passionate about**:  
+- **Pattern Recognition**  
+- **Computer Vision**  
+- **Deep Learning**  
+- **Machine Learning**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **Skills**:  
+- **Programming**: Python, C++  
+- **Frameworks**: TensorFlow, PyTorch  
+- **Concepts**: Data Structures, Algorithms, Object-Oriented Programming (OOP)  
+
+🌟 **Experience**:  
+During my internship at **MAS Innovation**, I worked on cutting-edge projects with the AI team, honing my skills in developing and deploying machine learning solutions.  
+
+🚀 **Commitment**:  
+I'm dedicated to applying both theoretical and practical knowledge to solve real-world problems and am eager to collaborate with others in the tech community!  
+
+📫 **Let’s connect**: [LinkedIn](https://www.linkedin.com/in/nusrath-amana/) / nusrathamana526@gmail.com  
