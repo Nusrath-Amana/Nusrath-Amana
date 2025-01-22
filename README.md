@@ -5,7 +5,7 @@
 💻 **Passionate about**:  
 - **Machine Learning**  
 - **Computer Vision and Pattern Recognition**
-- - **Signal Processing**  
+- **Signal Processing**  
 - **Software Engineering**  
 
 🔧 **Skills**:  
