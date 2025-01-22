@@ -10,15 +10,20 @@
 
 ---
 
-🔧 **Skills**:  
+## 🔧 **Skills**  
 
+### 🖥️ Programming:  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+
+### 🚀 Frameworks:  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+
+### 🛠️ Concepts:  
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-4CAF50?style=for-the-badge)  
 ![Algorithms](https://img.shields.io/badge/Algorithms-009688?style=for-the-badge)  
-![OOP](https://img.shields.io/badge/OOP-FFC107?style=for-the-badge)  
+![Object-Oriented Programming (OOP)](https://img.shields.io/badge/OOP-FFC107?style=for-the-badge)  
 
 ---
 
