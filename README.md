@@ -50,12 +50,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nusrath%20Amana-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nusrath-amana/)  
 [![Email](https://img.shields.io/badge/Email-nusrathamana526@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nusrathamana526@gmail.com)
 
----
 
-## 📍 **Connect with me**:
-[LinkedIn](https://linkedin.com/in/nusrath-amana)
-
----
 
 ## 🛠️ **Languages and Tools**:
 <p>
@@ -76,6 +71,8 @@
 
 ---
 
+<!--
 ## 📊 **GitHub Stats**:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nusrath-amana&show_icons=true&locale=en&layout=compact" alt="nusrath-amana" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nusrath-amana&show_icons=true&locale=en" alt="nusrath-amana" /></p>
+-->
